@@ -1,0 +1,4 @@
+/* Buka file app/globals.css dan tambahkan ini */
+html {
+  scroll-behavior: smooth;
+}
